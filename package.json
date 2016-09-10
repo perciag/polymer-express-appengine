@@ -1,6 +1,7 @@
 {
   "name": "polymer-starter-kit-custom-build",
   "version": "0.0.0",
+  "private": true,
   "description": "A starting point for Polymer 1.0 custom build apps",
   "repository": {
     "type": "git",
@@ -13,7 +14,6 @@
   "engines": {
     "node": ">=4.0"
   },
-  "private": true,
   "scripts": {
     "start": "node ./bin/www"
   },
